@@ -1,6 +1,6 @@
 # Market-Mix-Model_using_XgBoost
 
-This project demonstrates how to use XgBoost, a popular machine learning algorithm, to build a market mix model (MMM) that can quantify the impact of various marketing channels on sales and optimize the marketing budget allocation.
+This project demonstrates how to use XgBoost, a popular machine learning algorithm, to build a market mix model (MMM) that can quantify the impact of various marketing channels on sales and optimize the marketing budget allocation. This project also demonstrates Adstock, Saturation, and Interaction effects among different media channels.
 
 ## Data
 
