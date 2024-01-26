@@ -31,10 +31,6 @@ The main notebook for this project is `MMM_using_XgBoost.ipynb`, which contains 
 
 The notebook can be run on Google Colab or locally with the required packages installed.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
 ## Contributing
 
 If you have a Data Science mini-project that you'd like to share, please follow the guidelines in [CONTRIBUTING.md](https://github.com/Praveen76/Data-Science-Mini-Projects/blob/main/contributing.md).
